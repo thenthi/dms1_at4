@@ -95,7 +95,7 @@ Playtesting revealed that some users didn’t fully understand the emotional mea
 **Assignment 1**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BexTzufKN5s?si=QYbr_TSuMZl1V7JW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-![assignment](assignment1.png)
+![description](assignment1.png)
 ![assignment](assignment1.1.png)
 ![assignment](assignment1.2.png)
 ![assignment](assignment1.3.png)
