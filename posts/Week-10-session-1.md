@@ -90,3 +90,13 @@ The main theme—my personal journey through learning difficulties—remained co
 **6. • What did you discover through the process of play testing that you wouldn’t have discovered otherwise?**
 
 Playtesting revealed that some users didn’t fully understand the emotional meaning of each encounter without additional guidance. As a result, I added clearer visual cues, directional lighting, and more expressive sound design to help communicate the mood more effectively. These adjustments helped improve the storytelling and user experience in ways I couldn’t have predicted without real feedback.
+
+# ***Process Documentaion***
+**Assignment 1**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BexTzufKN5s?si=QYbr_TSuMZl1V7JW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![assignment](assignment1.png)
+![assignment](assignment1.1.png)
+![assignment](assignment1.2.png)
+![assignment](assignment1.3.png)
+
