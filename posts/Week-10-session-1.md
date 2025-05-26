@@ -100,3 +100,31 @@ Playtesting revealed that some users didn’t fully understand the emotional mea
 ![assignment](assignment1.1.png)
 ![assignment](assignment1.2.png)
 ![assignment](assignment1.3.png)
+
+**Assignment 2**
+
+![assignment](at1.png)
+![assignment](2.png)
+![assignment](3.png)
+![assignment](4.png)
+![assignment](illustrator.png)
+![assignment](web.png)
+![assignment](assignment1.png)
+![assignment](mot.png)
+![assignment](hai.png)
+![assignment](ba.png)
+![assignment](bon.png)
+
+**Assignment 3**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxNkByxH1wQ?si=wjC13sgIPJ3bxDli" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+https://docs.google.com/forms/d/1mMgdW7-zAOIKWMaboBwEszD1KUu8iQ61Azl8n7qNpW4/edit#responses
+
+![assignment](at3.png)
+![assignment](maze.png)
+![assignment](hand.png)
+![assignment](study.png)
+![assignment](garden.png)
+![assignment](code.png)
+
