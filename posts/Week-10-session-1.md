@@ -127,7 +127,7 @@ https://docs.google.com/forms/d/1mMgdW7-zAOIKWMaboBwEszD1KUu8iQ61Azl8n7qNpW4/edi
 ![assignment](garden.png)
 ![assignment](code.png)
 
-# Idea foe webpage
+# Idea for webpage
 **🎨 Aesthetic Concept**
 
 I chose a soft pastel color palette with cotton candy pink, lavender purple, mint green, and creamy yellow. Rounded, cute fonts combined with small icons like stars, rainbows, and cotton candy will make the website friendly and eye-catching.
