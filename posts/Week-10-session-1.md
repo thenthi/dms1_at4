@@ -109,7 +109,6 @@ Playtesting revealed that some users didn’t fully understand the emotional mea
 ![assignment](4.png)
 ![assignment](illustrator.png)
 ![assignment](web.png)
-![assignment](assignment1.png)
 ![assignment](mot.png)
 ![assignment](hai.png)
 ![assignment](ba.png)
