@@ -127,3 +127,38 @@ https://docs.google.com/forms/d/1mMgdW7-zAOIKWMaboBwEszD1KUu8iQ61Azl8n7qNpW4/edi
 ![assignment](garden.png)
 ![assignment](code.png)
 
+# Idea foe webpage
+**🎨 Aesthetic Concept**
+
+I chose a soft pastel color palette with cotton candy pink, lavender purple, mint green, and creamy yellow. Rounded, cute fonts combined with small icons like stars, rainbows, and cotton candy will make the website friendly and eye-catching.
+
+**🎯 Target Audience**
+
+This website is for my teachers, friends, and creative industry recruiters. They will want to clearly see my work process, from initial ideas to final products, along with my personal reflections on each project.
+
+**🧩 Key Features**
+
+A timeline organized by weeks or projects for easy navigation
+
+Photos and videos illustrating the work process
+
+Light, playful interactive effects
+
+A user-friendly interface that looks good on both phones and computers
+
+**🖌️ Website Structure**
+
+Home: A short introduction with cute visuals
+
+Semester Timeline: Showing each week with photos and project descriptions
+
+Project Pages: Including artist statements, process images, final products, and personal thoughts
+
+Process Documentation: Weekly journals and reflections
+
+About Me: Illustrated portrait and contact information
+
+# Artist Statement
+
+The project “Candy Dreamscape” creates a dreamy world like cotton candy, filled with pastel colors and gentle animations that bring a joyful and whimsical feeling. Through it, I learned how to combine colors and effects to convey sweet emotions.
+
