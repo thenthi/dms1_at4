@@ -34,3 +34,15 @@ After applying the grid, I realized that some of my content was leaning too far 
 After finishing the background design for my Figma layout, I received a lot of feedback from friends and family. Many of them felt that my original background was too colorful and visually overwhelming. Their first impression was that it looked messy and didn’t feel like a professional portfolio.
 
 Based on their comments, I decided to completely change both the background and overall direction. In the updated version (shown in the second image), I kept the “sweety” theme but refined it with a softer pink and cream color palette. I also chose darker, more muted text colors to avoid harsh contrast and to keep everything more readable and balanced.
+
+ **Final Decision**
+
+ ![alttext](figma3.png)
+
+My original wreframe included more decorative and non-standard placements: curved sections, misaligned elements and irregular spacing.while they looked interesting, i found that they made the actual content harder to follow and reducede clarity.
+
+in the updated version, i adopted a more minimalistic approach. This not only helps present information in logical flow but also provides visual balance.Blog entries, imaged and project descriptions are now aligned consistently.its easier for users to read and focus on specific areas of the site without being overwhelmed.
+
+**Reflection on the design process**
+
+Looking back, I see this change as a natural part of design process. I started with an idea that felt right at the time, but as I developed the website and got closer to the core of what I want to express, I was able to see more clearly what worked, and what didn’t. 
