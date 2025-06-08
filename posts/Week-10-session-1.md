@@ -5,6 +5,11 @@ snippet: Week 10 session 1
 disable_html_sanitization: true
 allow_math: true
 ---
+# Activity in class
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XBNClWx572w?si=HGqt0CQlbpm2J2fn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This was an in-class activity organized by our instructor where we had the chance to ask questions related to the lessons and hear about our classmates’ experiences after completing their assignments. It was insightful to learn what tools they used, how they approached their designs, and how they felt throughout the creative process. Listening to their challenges and achievements not only helped me reflect on my own work but also gave me new ideas and perspectives for future projects.
+
 # Assignmanet 1 - Video Edit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o_5XVq5mLm0?si=qqnrrjsyWk3l40W_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
