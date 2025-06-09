@@ -18,3 +18,10 @@ https://www.vectorstock.com/royalty-free-vector/one-line-drawing-bay-leaf-twig-m
 
 https://pngtree.com/freepng/star-blink-icon-vector-illustration_8225995.html
 
+# Final Decision
+![alttext](final.png)
+![alttext](final1.png)
+**Final Adjustments**
+
+After reviewing my webpage one last time, I realized it could benefit from more visual content. So, I decided to add my personal storyboard and include a few additional effects. These effects were ones I discovered on my own, and I found them relatively easy to implement. They added a nice touch to the page, making the overall experience more engaging and dynamic.
+
