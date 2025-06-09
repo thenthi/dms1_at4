@@ -20,10 +20,14 @@ Over the past week, I’ve started drafting some content for my website based on
 # Figma
 ![assignment](figma1.png)
 ![assignment](figma2.png)
+![assignment](pic.png)
 
 **Website Design Progress**
 
 I’ve also started designing my website on Figma, following the “sweety” theme I mentioned earlier — with rainbows and soft colors. I’ve added some of the draft texts I wrote and tried arranging them on the page, but I’m not quite satisfied with the layout yet. My plan is to design as many pages as I can first, then carefully organize and refine everything to make the site more visually appealing and cohesive.
+
+I also gathered several reference images that I found helpful and relevant to my creative process. I tried placing them into Figma to experiment with layout arrangements. Although the images weren’t fully organized at this stage, the overall composition still felt visually balanced. These images not only help illustrate my portfolio but also showcase the development process and how each assignment evolved throughout the semester.
+
 # Draft of my designer bio
 
 **About me**

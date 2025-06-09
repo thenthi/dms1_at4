@@ -165,5 +165,6 @@ About Me: Illustrated portrait and contact information
 
 # Artist Statement
 
-The project “Candy Dreamscape” creates a dreamy world like cotton candy, filled with pastel colors and gentle animations that bring a joyful and whimsical feeling. Through it, I learned how to combine colors and effects to convey sweet emotions.
+This project is a playful and lighthearted reflection of my learning journey, told through a visual world inspired by sweets and minimal design. Using bright colors, soft shapes, and simple forms, I wanted to capture the joy, challenges, and personal growth I've experienced throughout the course.
 
+The candy-themed aesthetic is not just about cuteness — it symbolizes the moments of encouragement, discovery, and the small victories that made my process feel rewarding. By stripping down visual clutter and focusing on clarity and mood, I aimed to create a space where the audience feels welcome, relaxed, and connected to my story.

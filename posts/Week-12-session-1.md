@@ -5,6 +5,14 @@ snippet: Week 12 session 1
 disable_html_sanitization: true
 allow_math: true
 ---
+# Progress in Figma
+![alttext](desktop.png)
+![alttext](mobile.png)
+
+I have nearly completed the desktop version of my webpage. My next step was to transfer all the components from the desktop layout to the mobile page. This involved adjusting font sizes, scaling down images, and rearranging elements to ensure everything fits and functions well on smaller screens.
+
+During this process, I faced several challenges — many of the images and text were too large to fit properly on mobile, which caused layout issues. I had to spend time resizing and rethinking the placement of each element to maintain readability and a clean structure. Despite the difficulties, this process helped me better understand responsive design and the importance of adapting content across different screen sizes.
+
 # Group Feedback
 ![alttext](feedback.png)
 ![alttext](feedback1.png)

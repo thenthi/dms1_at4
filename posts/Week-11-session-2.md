@@ -39,9 +39,9 @@ Based on their comments, I decided to completely change both the background and 
 
 ![alttext](new.png)
 
-My original wreframe included more decorative and non-standard placements: curved sections, misaligned elements and irregular spacing.while they looked interesting, i found that they made the actual content harder to follow and reducede clarity.
+My original wreframe included more decorative and non-standard placements: curved sections, misaligned elements and irregular spacing.while they looked interesting, I found that they made the actual content harder to follow and reducede clarity.
 
-in the updated version, i adopted a more minimalistic approach. This not only helps present information in logical flow but also provides visual balance.Blog entries, imaged and project descriptions are now aligned consistently.its easier for users to read and focus on specific areas of the site without being overwhelmed.
+in the updated version, I adopted a more minimalistic approach. This not only helps present information in logical flow but also provides visual balance. Blog entries, imaged and project descriptions are now aligned consistently. Its easier for users to read and focus on specific areas of the site without being overwhelmed.
 
 **Improving Contrast in My Minimalist Web Design**
 
